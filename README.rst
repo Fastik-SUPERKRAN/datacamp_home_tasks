@@ -1,8 +1,4 @@
-This is README!
+This Repository contains my data camp home tasks.
 ===============
 
-TODO
-----
-
-- create makefile
-- add getting python from .zshrc for makevenv
+Have a nice day! 😊
